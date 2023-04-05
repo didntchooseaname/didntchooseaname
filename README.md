@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm didntchooseaname</h1>
-<h3 align="center">A cybersec student at Guardia CS.</h3>
+<img src="https://pbs.twimg.com/profile_images/1456641290288906249/Uoh_Sj8R_400x400.jpg" align="left" width="12%">
+<img src="https://pbs.twimg.com/profile_images/1456641290288906249/Uoh_Sj8R_400x400.jpg" align="right" width="12%">
 
-😀 Glad to see you there ! <p align="left"> <img src="https://komarev.com/ghpvc/?username=didntchooseaname&label=Profile%20views&color=0e75b6&style=flat" alt="didntchooseaname" /> </p>
+
+
+<h1 align="center">Hi 👋, I didntchooseaname</h1>
+<h3 align="center">A cybersec student at <a href="https://guardia.school/">Guardia CS</a></h3>
+
+<p align="center">😀 Glad to see you there, number of ⤴ <img src="https://komarev.com/ghpvc/?username=didntchooseaname&label=Profile%20views&color=0e75b6&style=flat" alt="didntchooseaname" /></p>
+
+---
 
 - 🔭 I’m currently working on **vulnerability managment & remediation.**
 
