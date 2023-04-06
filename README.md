@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences on [https://contactit.fr](https://contactit.fr)
 
-![tryhackme stats](https://raw.githubusercontent.com/didntchooseaname/didntchooseaname/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/EnterUsername.png?3)
 
 ---
 
