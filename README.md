@@ -29,4 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didntchooseaname&" alt="didntchooseaname" /></p>
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/didntchooseaname/SECNOTES?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/didntchooseaname/SECNOTES?style=for-the-badge)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
