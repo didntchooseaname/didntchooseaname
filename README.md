@@ -16,13 +16,13 @@
 
 - 📝 I sometimes write articles on my [website](https://docs.contactit.fr)
 
-- 💬 Ask me about **cybersecurity, privacy and security of the user !**
+- 💬 let's discuss about **cybersecurity, privacy and security of the user !**
 
 - 📫 Click on the arrow below to contact me !<details><summary></summary>**contactit.yarka@slmail.me**</details>
 
 - 📄 Know about my experiences on [https://contactit.fr](https://contactit.fr)
 
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/EnterUsername.png?3)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/EnterUsername.png)
 
 ---
 
