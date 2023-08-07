@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on **vulnerability managment & remediation.**
+- 🔭 I’m currently working on **SOC Analyst tasks as a Deputy Information Systems Security Manager.**
 
 - 🌱 I’m learning **python, C and pentesting related sttuff.**
 
