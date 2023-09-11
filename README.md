@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on **SOC Analyst tasks as a Deputy Information Systems Security Manager.**
+- 🔭 I’m currently working on **SOC Analyst, DFIR tasks as a Information Systems Security Manager (apprenticeship).**
 
 - 🌱 I’m learning **python, C and pentesting related sttuff.**
 
