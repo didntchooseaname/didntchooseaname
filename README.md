@@ -42,6 +42,3 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcontactit.fr&up_message=En%20ligne&down_message=offline&label=contactit.fr)
 
 ---
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/didntchooseaname/didntchooseaname/main/image.gif');]{x0000}$}
