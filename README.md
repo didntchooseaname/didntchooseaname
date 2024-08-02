@@ -22,6 +22,8 @@
 
 - 📄 Know about my experiences on [https://contactit.fr](https://contactit.fr)
 
+![HTB Stats](https://www.hackthebox.com/badge/image/1468045)
+
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/EnterUsername.png)
 
 ---
