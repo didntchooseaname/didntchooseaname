@@ -1,8 +1,5 @@
-<img src="https://pbs.twimg.com/profile_images/1456641290288906249/Uoh_Sj8R_400x400.jpg" align="left" width="12%">
-<img src="https://pbs.twimg.com/profile_images/1456641290288906249/Uoh_Sj8R_400x400.jpg" align="right" width="12%">
-
-<h1 align="center">Hi 👋, I didntchooseaname</h1>
-<h3 align="center">A cybersec student at <a href="https://guardia.school/">Guardia CS</a></h3>
+<h1 align="center">Hi 👋, Xsec</h1>
+<h3 align="center">An average infosec nerd</h3>
 
 <p align="center">😀 Glad to see you there, number of ⤴ <img src="https://komarev.com/ghpvc/?username=didntchooseaname&label=Profile%20views&color=0e75b6&style=flat" alt="didntchooseaname" /></p>
 
@@ -20,7 +17,7 @@
 
 - 📫 Click on the arrow below to contact me !<details><summary></summary>**contactit.yarka@slmail.me**</details>
 
-- 📄 Know about my experiences on [https://contactit.fr](https://contactit.fr)
+- 📄 Know about my experiences on [https://xsec.fr](https://xsec.fr)
 
 ![HTB Stats](https://www.hackthebox.com/badge/image/1468045)
 
