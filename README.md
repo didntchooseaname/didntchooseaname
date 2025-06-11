@@ -36,8 +36,8 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=didntchooseaname&theme=tokyonight)
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/didntchooseaname/docs.contactit.fr)
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/didntchooseaname/docs.contactit.fr)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcontactit.fr&up_message=En%20ligne&down_message=offline&label=contactit.fr)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/didntchooseaname/documentation)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/didntchooseaname/documentation)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fxsec.fr&up_message=En%20ligne&down_message=offline&label=xsec.fr)
 
 ---
