@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available on this [github](https://github.com/didntchooseaname/didntchooseaname)
 
-- 📝 I sometimes write articles on my [website](https://docs.contactit.fr)
+- 📝 I sometimes write articles on my [website](https://xsec.fr)
 
 - 💬 let's discuss about **cybersecurity, privacy and security of the user !**
 
