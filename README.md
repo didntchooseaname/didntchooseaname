@@ -109,7 +109,8 @@ A real-time interactive quiz platform for browser-based games. A room that can b
 <div align="center"><sub>Smaller tools:
 <a href="https://github.com/didntchooseaname/exchanger">exchanger</a> ·
 <a href="https://github.com/didntchooseaname/BetterPrivesc">BetterPrivesc</a> ·
-<a href="https://github.com/didntchooseaname/DrvLdr">DrvLdr</a> ·
+<a href="https://github.com/didntchooseaname/DrvLdr">DrvLdr</a>
+</sub></div>
 
 ---
 
