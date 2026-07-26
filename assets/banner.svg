@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Xsec, pentester, security researcher and cybersecurity teacher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="50%" stop-color="#131a2e"/>
+      <stop offset="100%" stop-color="#0a0e1c"/>
+    </linearGradient>
+    <radialGradient id="b1"><stop offset="0%" stop-color="#6366f1" stop-opacity=".85"/><stop offset="100%" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b2"><stop offset="0%" stop-color="#f43f5e" stop-opacity=".7"/><stop offset="100%" stop-color="#f43f5e" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b3"><stop offset="0%" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="60%" stop-color="#dbe3ff"/><stop offset="100%" stop-color="#a5b4fc"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f43f5e"/><stop offset="55%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".75"/>
+      <stop offset="55%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="52"/></filter>
+    <clipPath id="card"><rect x="8" y="8" width="984" height="264" rx="20"/></clipPath>
+    <mask id="titlemask">
+      <text class="t" x="56" y="118" fill="#fff">Xsec</text>
+    </mask>
+  </defs>
+
+  <style>
+    .f { font-family: "Inter", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .t { font-family: "Inter", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 76px; font-weight: 700; letter-spacing: -2px; }
+    .sub  { font-size: 15px; fill: #94a3b8; letter-spacing: 4.5px; font-weight: 500; }
+    .chip { font-size: 12.5px; fill: #cbd5e1; letter-spacing: .4px; font-weight: 500; }
+    .chipnum { fill: #ffffff; font-weight: 700; }
+  </style>
+
+  <rect x="8" y="8" width="984" height="264" rx="20" fill="url(#bg)" stroke="#1e2740"/>
+
+  <g clip-path="url(#card)">
+    <g filter="url(#soft)">
+      <circle cx="180" cy="70" r="150" fill="url(#b1)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 70 40; -30 20; 0 0" dur="26s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="230" r="165" fill="url(#b2)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -80 -50; 40 -20; 0 0" dur="31s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="520" cy="30" r="130" fill="url(#b3)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 60 60; -50 30; 0 0" dur="23s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g opacity=".5">
+      <circle cx="856" cy="140" r="44" fill="none" stroke="#c7d2fe" stroke-opacity=".16"/>
+      <circle cx="856" cy="140" r="70" fill="none" stroke="#c7d2fe" stroke-opacity=".11"/>
+      <circle cx="856" cy="140" r="96" fill="none" stroke="#c7d2fe" stroke-opacity=".07"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 856 140" to="360 856 140" dur="18s" repeatCount="indefinite"/>
+        <circle cx="926" cy="140" r="4" fill="#a5b4fc"/></g>
+      <g><animateTransform attributeName="transform" type="rotate" from="360 856 140" to="0 856 140" dur="27s" repeatCount="indefinite"/>
+        <circle cx="812" cy="140" r="3" fill="#f9a8d4"/></g>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur=".7s" begin=".1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 14; 0 0" dur=".7s" begin=".1s" fill="freeze"/>
+      <text class="t" x="56" y="118" fill="url(#ink)">Xsec</text>
+      <rect x="0" y="50" width="1000" height="90" fill="url(#shine)" mask="url(#titlemask)">
+        <animateTransform attributeName="transform" type="translate" values="-1000 0; 1000 0" dur="5s" begin="1.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="56" y="140" width="0" height="3" rx="1.5" fill="url(#rule)">
+      <animate attributeName="width" values="0;150" dur=".8s" begin=".5s" fill="freeze"/>
+    </rect>
+
+    <text class="f sub" x="56" y="180" opacity="0">PENTESTER · SECURITY RESEARCHER · TEACHER
+      <animate attributeName="opacity" values="0;1" dur=".7s" begin=".75s" fill="freeze"/>
+    </text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur=".7s" begin="1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 10; 0 0" dur=".7s" begin="1s" fill="freeze"/>
+      <rect x="56" y="206" width="132" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#c7d2fe" stroke-opacity=".14"/>
+      <text class="f chip" x="72" y="225"><tspan class="chipnum">12+</tspan> years in IT</text>
+      <rect x="198" y="206" width="196" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#c7d2fe" stroke-opacity=".14"/>
+      <text class="f chip" x="214" y="225"><tspan class="chipnum">5</tspan> red-team certifications</text>
+      <rect x="404" y="206" width="180" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#c7d2fe" stroke-opacity=".14"/>
+      <text class="f chip" x="420" y="225"><tspan class="chipnum">40+</tspan> published articles</text>
+    </g>
+  </g>
+</svg>
